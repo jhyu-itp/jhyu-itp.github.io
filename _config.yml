@@ -12,7 +12,7 @@
 # Basic info
 ##################################################
 locale                   : "en-US"
-title                    : "Group Page"
+title                    : "JH Yu's Research Group"
 subtitle                 : # site tagline that appears below site title in masthead
 title_separator          : "-"
 name                     : "Jiang-Hao Yu"
@@ -27,10 +27,10 @@ author:
   location: "Somewhere"
   #links that appear in the authors navigation sidebar
   links:
-    - label: "Email"
+    - label: "Email: jhyu@itp.ac.cn"
       icon: "fas fa-fw fa-envelope-square fa-lg"
       url: "mailto:jhyu@itp.ac.cn"
-    - label: "INSPIREHEP"
+    - label: "INSPIREHEP Link"
       icon: "fab fa-inspirehep fa-lg"
       url: "https://inspirehep.net/authors/1066117"
     - label: "ORCID"
