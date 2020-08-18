@@ -12,27 +12,27 @@
 # Basic info
 ##################################################
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Group Page"
 subtitle                 : # site tagline that appears below site title in masthead
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Jiang-Hao Yu"
 description              : "An amazing website."
 
 # Site Author info
 ##################################################
 author:
-  name             : "Your Name"
+  name             : "Jiang-Hao Yu"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "My very short description"
+  bio              : "Associate Professor at ITP-CAS"
   location: "Somewhere"
   #links that appear in the authors navigation sidebar
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square fa-lg"
-      url: "mailto:your_email@email.com"
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate fa-lg"
-      url: "https://www.researchgate.net/"
+      url: "mailto:jhyu@itp.ac.cn"
+    - label: "INSPIREHEP"
+      icon: "fab fa-inspirehep fa-lg"
+      url: "https://inspirehep.net/authors/1066117"
     - label: "ORCID"
       icon: "fab fa-orcid fa-lg"
       url: "https://orcid.org/"
@@ -47,7 +47,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
-      url: "https://github.com/"
+      url: "https://jhyu-itp.github.com/"
 
 # Social Sharing
 ##################################################
