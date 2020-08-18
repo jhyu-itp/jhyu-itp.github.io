@@ -24,23 +24,7 @@ feature_row:
         "有效场论框架及其应用"
 # Delete the previous lines if you prefer not to have a feature row
 ---
-
-This is the homepage for Jiang-Hao Yu's research group. Currently there are four graduate students:
-
-Zhe Ren (任哲)
-
-Yuan-Zhen Li (李沅桢)
-
-Yu-Han Ni (倪)
-
-Hao Sun (孙浩)
-
-and two postdoc:
-
-Hao-Lin Li (李浩林)
-
-Yong Du (杜勇)
-
+This is the homepage for Jiang-Hao Yu's research group.  
 <!-- Delete next line if you prefer not to have a feature row. -->
 <br />
 <br />
@@ -48,3 +32,21 @@ Yong Du (杜勇)
   {% include feature_row %}
 {% endif %}
 <!-- Delete previous lines if you prefer not to have a feature row. -->
+
+In this group, there are four graduate students:
+
+Zhe Ren (任哲)
+
+Yuan-Zhen Li (李沅桢)
+
+Yu-Han Ni (倪郁涵)
+
+Hao Sun (孙浩)
+
+and two postdocs:
+
+Hao-Lin Li (李浩林)
+
+Yong Du (杜勇)
+
+
