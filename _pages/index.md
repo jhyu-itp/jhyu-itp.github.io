@@ -12,24 +12,6 @@ feature_row1:
     title: "Origin of Higgs and Neutrino Masses"
     excerpt:
         "希格斯粒子和中微子的质量起源"
-
-feature_row2_title: Academic Interests
-feature_row2:
-  - image_path: /images/p1.jpg
-    alt: "Academic interest 1"
-    title: "Origin of Higgs and Neutrino Masses"
-    excerpt:
-        "希格斯粒子和中微子的质量起源"
-  - image_path: /images/p1.jpg
-    alt: "Academic interest 2"
-    title: "Origin of Ordinary and Dark Matter"
-    excerpt:
-        "普通物质以及暗物质的起源"
-  - image_path: /images/p1.jpg
-    alt: "Academic interest 3"
-    title: "Effective Field Theories"
-    excerpt:
-        "有效场论框架及其应用"
 # Delete the previous lines if you prefer not to have a feature row
 
 
