@@ -5,23 +5,15 @@ permalink: /
 title: Welcome!
 
 # Delete next lines if you prefer not to have a feature row
-feature_row_title: Academic Interests
+feature_row1_title: PI 简介
 feature_row1:
   - image_path: /images/p1.jpg
     alt: "Academic interest 1"
     title: "Origin of Higgs and Neutrino Masses"
     excerpt:
         "希格斯粒子和中微子的质量起源"
-  - image_path: /images/p1.jpg
-    alt: "Academic interest 2"
-    title: "Origin of Ordinary and Dark Matter"
-    excerpt:
-        "普通物质以及暗物质的起源"
-  - image_path: /images/p1.jpg
-    alt: "Academic interest 3"
-    title: "Effective Field Theories"
-    excerpt:
-        "有效场论框架及其应用"
+
+feature_row2_title: Academic Interests
 feature_row2:
   - image_path: /images/p1.jpg
     alt: "Academic interest 1"
