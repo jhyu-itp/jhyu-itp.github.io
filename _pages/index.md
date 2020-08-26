@@ -46,10 +46,6 @@ This is the homepage for Jiang-Hao Yu's research group.
 {% if page.feature_row1 %}
   {% include feature_row1 %}
 {% endif %}
-
-{% if page.feature_row2 %}
-  {% include feature_row2 %}
-{% endif %}
 <!-- Delete previous lines if you prefer not to have a feature row. -->
 
 
