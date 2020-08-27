@@ -21,6 +21,9 @@ This is the homepage for Jiang-Hao Yu's research group.
 <br />
 <br />
 
+-----------------
+<br />
+
 <p align="center">
 <img src="/assets/images/bio-photo.png" alt="于江浩" title="Jiang-Hao Yu" width="150"/>
      <br />
@@ -44,7 +47,8 @@ In this group, there are two postdocs:
 
 <br />
 <br />
-<p align="center">
+
+<center>
 <table>
   <tr>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
@@ -55,7 +59,7 @@ In this group, there are two postdocs:
      <td>Yong Du (杜勇)</td>
   </tr>
 </table>
-</p>
+</center>
 
 <!-- <p align="center">
   <img src="/images/p1.jpg" width="30%" />
@@ -65,7 +69,7 @@ In this group, there are two postdocs:
 <br />
 and four graduate students:
 <br />
-<p align="center">
+<center>
 <table>
   <tr>
     <td><img src="/assets/images/bio-photo.png" width=200></td>
@@ -80,7 +84,7 @@ and four graduate students:
       <td>Hao Sun (孙浩)</td>
   </tr>
 </table>
-</p>
+</center>
 
 <!--Zhe Ren (任哲)
 Yuan-Zhen Li (李沅桢)
