@@ -30,7 +30,13 @@ This is the homepage for Jiang-Hao Yu's research group.
     <em>Jiang-Hao Yu 于江浩 </em>
 </p>
 <br />
-中国科学院理论物理研究所副研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底回理论所任副研究员。研究领域为粒子物理理论和粒子宇宙学，目前主要集中在希格斯理论疑难、有效场论、电弱相变和重子生成、暗物质探测等方面，主持国家自然科学基金委面上项目一项，在国际学术期刊发表论文36篇，含独立作者文章6篇，PRL三篇，高能物理INSPIRE数据库统计文章总引用1000次以上，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。
+中国科学院理论物理研究所副研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底回理论所任副研究员。研究领域为粒子物理理论和粒子宇宙学，研究方向为
+<br />
+1. 质量起源：希格斯粒子和中微子的质量起源
+<br />
+2. 物质起源：正物质和暗物质的早期宇宙起源
+<br />
+目前主要集中在希格斯理论疑难、有效场论、电弱相变和重子生成、暗物质探测等方面，主持国家自然科学基金委面上项目一项，在国际学术期刊发表论文36篇，含独立作者文章6篇，PRL三篇，高能物理INSPIRE数据库统计文章总引用1000次以上，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。
 <br />
 
 <!-- Delete next line if you prefer not to have a feature row. -->
@@ -47,7 +53,7 @@ In this group, there are two postdocs:
 
 
 
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+<table style="margin-left:auto;margin-right:auto;">
   <tr>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
@@ -100,14 +106,12 @@ Yong Du (杜勇) -->
 Two visiting undergraduate students:
 
 <center>
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+<table style="margin-left:auto;margin-right:auto;">
   <tr>
-    <td><img src="/assets/images/bio-photo.png" width=120></td>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
   </tr>
     <tr>
-    <td>Hao-Lin Li (李浩林) (2018 - )</td>
-     <td>Yong Du (杜勇) (2020 - )</td>
+    <td>Yi-Ning Wang (王一宁) (大四)</td>
   </tr>
 </table>
 </center>
