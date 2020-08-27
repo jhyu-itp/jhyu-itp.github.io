@@ -46,8 +46,8 @@ This is the homepage for Jiang-Hao Yu's research group.
 In this group, there are two postdocs:
 
 
-<center>
-<table>
+
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
@@ -57,7 +57,7 @@ In this group, there are two postdocs:
      <td>Yong Du (杜勇) (2020 - )</td>
   </tr>
 </table>
-</center>
+
 
 <!-- <p align="center">
   <img src="/images/p1.jpg" width="30%" />
@@ -91,11 +91,13 @@ Hao Sun (孙浩)
 Hao-Lin Li (李浩林)
 Yong Du (杜勇) -->
 
-<br />
+
+
 -----------------
+
 <br />
 
-Two visiting undergraduate students
+Two visiting undergraduate students:
 
 <center>
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
