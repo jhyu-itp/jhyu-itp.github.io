@@ -45,11 +45,6 @@ This is the homepage for Jiang-Hao Yu's research group.
 <br />
 In this group, there are two postdocs:
 
-<br />
-<br />
-
-
-
 
 <center>
 <table>
@@ -95,5 +90,24 @@ Yu-Han Ni (倪郁涵)
 Hao Sun (孙浩) 
 Hao-Lin Li (李浩林)
 Yong Du (杜勇) -->
+
+<br />
+-----------------
+<br />
+
+Two visiting undergraduate students
+
+<center>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+  <tr>
+    <td><img src="/assets/images/bio-photo.png" width=120></td>
+    <td><img src="/assets/images/bio-photo.png" width=120></td>
+  </tr>
+    <tr>
+    <td>Hao-Lin Li (李浩林) (2018 - )</td>
+     <td>Yong Du (杜勇) (2020 - )</td>
+  </tr>
+</table>
+</center>
 
 
