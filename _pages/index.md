@@ -48,6 +48,19 @@ In this group, there are two postdocs:
 <br />
 <br />
 
+
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+
+
+<center>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="/assets/images/bio-photo.png" width=120>  |  <img src="/assets/images/bio-photo.png" width=120>
+</center>
+
 <center>
 <table>
   <tr>
@@ -72,10 +85,10 @@ and four graduate students:
 <center>
 <table>
   <tr>
-    <td><img src="/assets/images/bio-photo.png" width=200></td>
-    <td><img src="/assets/images/bio-photo.png" width=200></td>
-    <td><img src="/assets/images/bio-photo.png" width=200></td>
-    <td><img src="/assets/images/bio-photo.png" width=200></td>
+    <td><img src="/assets/images/bio-photo.png" width=120></td>
+    <td><img src="/assets/images/bio-photo.png" width=120></td>
+    <td><img src="/assets/images/bio-photo.png" width=120></td>
+    <td><img src="/assets/images/bio-photo.png" width=120></td>
   </tr>
     <tr>
     <td>Zhe Ren (任哲)</td>
