@@ -49,15 +49,7 @@ In this group, there are two postdocs:
 <br />
 
 
-<!--| --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
-<center>
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img src="/assets/images/bio-photo.png" width=120>  |  <img src="/assets/images/bio-photo.png" width=120>
-</center>-->
+
 
 <center>
 <table>
@@ -66,8 +58,8 @@ Solarized dark             |  Solarized Ocean
     <td><img src="/assets/images/bio-photo.png" width=120></td>
   </tr>
     <tr>
-    <td>Hao-Lin Li (李浩林)</td>
-     <td>Yong Du (杜勇)</td>
+    <td>Hao-Lin Li (李浩林) (2018 - )</td>
+     <td>Yong Du (杜勇) (2020 - )</td>
   </tr>
 </table>
 </center>
@@ -89,10 +81,10 @@ and four graduate students:
     <td><img src="/assets/images/bio-photo.png" width=120></td>
   </tr>
     <tr>
-    <td>Zhe Ren (任哲)</td>
-     <td>Yuan-Zhen Li (李沅桢)</td>
-     <td>Yu-Han Ni (倪郁涵)</td>
-      <td>Hao Sun (孙浩)</td>
+    <td>Zhe Ren (任哲) (2018年入学)</td>
+     <td>Yuan-Zhen Li (李沅桢) (2019年入学)</td>
+     <td>Yu-Han Ni (倪郁涵) (2019年入学)</td>
+      <td>Hao Sun (孙浩) (2020年入学)</td>
   </tr>
 </table>
 </p>
