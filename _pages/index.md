@@ -49,17 +49,15 @@ In this group, there are two postdocs:
 <br />
 
 
-| --------------- | --------------- | --------------- |
+<!--| --------------- | --------------- | --------------- |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
 | Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
-
-
 <center>
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 <img src="/assets/images/bio-photo.png" width=120>  |  <img src="/assets/images/bio-photo.png" width=120>
-</center>
+</center>-->
 
 <center>
 <table>
@@ -82,7 +80,7 @@ Solarized dark             |  Solarized Ocean
 <br />
 and four graduate students:
 <br />
-<center>
+<p align="center">
 <table>
   <tr>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
@@ -97,7 +95,7 @@ and four graduate students:
       <td>Hao Sun (孙浩)</td>
   </tr>
 </table>
-</center>
+</p>
 
 <!--Zhe Ren (任哲)
 Yuan-Zhen Li (李沅桢)
