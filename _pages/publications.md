@@ -7,7 +7,7 @@ layout: publications
 
 
 
- 201## 工作经历
+## 工作经历
 ------------------------
 
 2017.12 - 至今，  中国科学院理论物理研究所，第一研究室，副研究员
@@ -29,5 +29,7 @@ layout: publications
 ## 发表文章
 ------------------------
 
-My updated publication list: https://inspirehep.net/authors/1066117
+You can always find my updated publications through the following link: 
+
+https://inspirehep.net/authors/1066117
 
