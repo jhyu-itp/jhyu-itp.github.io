@@ -9,9 +9,9 @@ main:
     url: /talks/
   - title: "Software"
     url: /software/
-  - title: "CV"
+  - title: "Teaching"
     url: /downloads/cv.pdf
-  - title: "Seminar"
+  - title: "Activities"
     url: /blog/
 
 
