@@ -6,6 +6,5 @@ layout: software
 ---
 
 
-This is a selective list of software projects that I maintain 
-or contribute to. You can find a more complete list at Github.
+I will put the software projects that I maintain or contribute to. You can find a more complete list of software at my Github page.
 
