@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 permalink: /
-title: Welcome to Jiang-Hao Yu's research group.
+title: Welcome to Jiang-Hao Yu's website!
 
 # Delete next lines if you prefer not to have a feature row
 feature_row_title: PI 简介
@@ -17,16 +17,16 @@ feature_row:
 
 
 
-This is the homepage for Jiang-Hao Yu's research group.  
+The following is a brief introduction for Jiang-Hao Yu's research group.  
 
 
 -----------------
 
-This is Jiang-Hao Yu, an associate professor at Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS. 
+This is Jiang-Hao Yu, an associate professor at Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
 
 My research area is theoretical particle physics and particle cosmology, focusing on origin of the Higgs mass and neutrino masses, origin of matter and dark matter, and effective field theories. Recently I am working on naturalness and shape of Higgs potential, standard model and chiral effective field theory, electroweak phase transition and baryogenesis, dark matter and cosmological signatures.  
 
-If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. If you would like to apply for postdoc/Ph.D., or visit my group, feel free to contact me via [email](jhyu@itp.ac.cn). 
+If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. If you would like to apply for postdoc/Ph.D., or visit ITP-CAS, feel free to contact me via [email](jhyu@itp.ac.cn). 
 
 
 <br />
@@ -37,7 +37,7 @@ If you are interested in my research, please check out my publications at [INSPI
     <em>Jiang-Hao Yu 于江浩 </em>
 </p>
 <br />
-中国科学院理论物理研究所副研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底回理论所任副研究员。研究领域为粒子物理理论和粒子宇宙学，研究方向为（详细请见research page）
+中国科学院理论物理研究所副研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底回理论所任副研究员。研究领域为粒子物理理论和粒子宇宙学，研究方向为（详细请见Research page）
 
 1. 质量起源：希格斯粒子和中微子的质量起源
 
@@ -57,8 +57,10 @@ If you are interested in my research, please check out my publications at [INSPI
 <!-- Delete previous lines if you prefer not to have a feature row. -->
 
 -----------------
+
+In this research group, currently we have two postdocs:
+
 <br />
-In this group, there are two postdocs:
 <br />
 
 
@@ -79,7 +81,9 @@ In this group, there are two postdocs:
   <img src="/images/p1.jpg" width="30%" height=480/>
 </p> -->
 <br />
+
 and four graduate students:
+
 <br />
 <p align="center">
 <table>
@@ -111,7 +115,7 @@ Yong Du (杜勇) -->
 
 <br />
 
-Two visiting undergraduate students:
+We also provide research opportunities for undergraduate students, currently two undergraduate students are working with me:
 
 <center>
 <table style="margin-left:auto;margin-right:auto;">
@@ -124,10 +128,5 @@ Two visiting undergraduate students:
 </table>
 </center>
 
-<br />
-
 -----------------
 
-<br />
-
-Regarding to postdoc hiring, perspective graduate student, please contact Jiang-Hao Yu for details.
