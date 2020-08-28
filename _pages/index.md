@@ -70,8 +70,8 @@ In this research group, currently we have two postdocs:
     <td><img src="/assets/images/bio-photo.png" width=120></td>
   </tr>
     <tr>
-    <td>Hao-Lin Li (李浩林) (2018 - )</td>
-     <td>Yong Du (杜勇) (2020 - )</td>
+    <td>Hao-Lin Li 李浩林 (2018 - )</td>
+     <td>Yong Du 杜勇 (2020 - )</td>
   </tr>
 </table>
 
@@ -94,10 +94,10 @@ and four graduate students:
     <td><img src="/assets/images/bio-photo.png" width=120></td>
   </tr>
     <tr>
-    <td>Zhe Ren (任哲) (2018年入学)</td>
-     <td>Yuan-Zhen Li (李沅桢) (2019年入学)</td>
-     <td>Yu-Han Ni (倪郁涵) (2019年入学)</td>
-      <td>Hao Sun (孙浩) (2020年入学)</td>
+    <td>Zhe Ren 任哲  </td>
+     <td>Yuan-Zhen Li 李沅桢 </td>
+     <td>Yu-Han Ni 倪郁涵 </td>
+      <td>Hao Sun 孙浩 </td>
   </tr>
 </table>
 </p>
@@ -123,7 +123,7 @@ We also provide research opportunities for undergraduate students, currently two
     <td><img src="/assets/images/bio-photo.png" width=120></td>
   </tr>
     <tr>
-    <td>Yi-Ning Wang (王一宁) (大四)</td>
+    <td>Yi-Ning Wang 王一宁 (山东大学) </td>
   </tr>
 </table>
 </center>
