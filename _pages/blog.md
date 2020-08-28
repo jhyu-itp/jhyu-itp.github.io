@@ -7,6 +7,8 @@ layout: recent-posts
 
 ## This page includes seminars, journal clubs, news in the group.
 
-Seminars and journal clubs that organized by group members.
+每周一上午有组会，在南楼，或者在网上
+
+周二或周四下午可能安排seminar
 
 
