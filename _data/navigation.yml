@@ -7,10 +7,10 @@ main:
     url: /publications/
   - title: "Talks"
     url: /talks/
-  - title: "Software"
-    url: /software/
   - title: "Teaching"
-    url: /downloads/cv.pdf
+    url: /software/
+#  - title: "Teaching"
+#    url: /downloads/cv.pdf
   - title: "Activities"
     url: /blog/
 
