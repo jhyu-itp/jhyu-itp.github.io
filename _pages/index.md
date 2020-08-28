@@ -64,7 +64,7 @@ In this research group, currently we have two postdocs:
 <br />
 
 
-<table style="margin-left:auto;margin-right:auto;">
+<table>
   <tr>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
@@ -107,7 +107,7 @@ Yuan-Zhen Li (李沅桢)
 Yu-Han Ni (倪郁涵)
 Hao Sun (孙浩) 
 Hao-Lin Li (李浩林)
-Yong Du (杜勇) -->
+Yong Du (杜勇)  style="margin-left:auto;margin-right:auto;" -->
 
 <br />
 
@@ -118,7 +118,7 @@ Yong Du (杜勇) -->
 We also provide research opportunities for undergraduate students, currently two undergraduate students are working with me:
 
 <center>
-<table style="margin-left:auto;margin-right:auto;">
+<table>
   <tr>
     <td><img src="/assets/images/bio-photo.png" width=120></td>
   </tr>
