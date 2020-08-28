@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 permalink: /
-title: Welcome!
+title: Welcome to Jiang-Hao Yu's research group.
 
 # Delete next lines if you prefer not to have a feature row
 feature_row_title: PI 简介
@@ -18,10 +18,17 @@ feature_row:
 
 
 This is the homepage for Jiang-Hao Yu's research group.  
-<br />
-<br />
+
 
 -----------------
+
+This is Jiang-Hao Yu, an associate professor at Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS. 
+
+My research area is theoretical particle physics and particle cosmology, focusing on origin of the Higgs mass and neutrino masses, origin of matter and dark matter, and effective field theories. Recently I am working on naturalness and shape of Higgs potential, standard model and chiral effective field theory, electroweak phase transition and baryogenesis, dark matter and cosmological signatures.  
+
+If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. If you would like to apply for postdoc/Ph.D., or visit my group, feel free to contact me via [email](jhyu@itp.ac.cn). 
+
+
 <br />
 
 <p align="center">
