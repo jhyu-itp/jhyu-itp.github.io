@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "Publications"
+  - title: "CV"
     url: /publications/
   - title: "Talks"
     url: /talks/
@@ -11,7 +11,7 @@ main:
     url: /software/
   - title: "CV"
     url: /downloads/cv.pdf
-  - title: "Blog"
+  - title: "Seminar"
     url: /blog/
 
 
