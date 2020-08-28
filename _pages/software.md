@@ -6,5 +6,7 @@ layout: software
 ---
 
 
-I will put the software projects that I maintain or contribute to. You can find a more complete list of software at my Github page.
+I will put the software projects that I maintain or contribute to. You can find updated softwares at my Github page.
+
+Stay tuned...
 
