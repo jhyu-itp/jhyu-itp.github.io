@@ -1,12 +1,12 @@
 ---
-title: "Name of my blog"
+title: "Group Activities"
 excerpt: "Personal blog about how coding and research"
 permalink: /blog/
 layout: recent-posts
 ---
 
-## Welcome to this blog
+## This page includes seminars, journal clubs, news in the group.
 
-Provide a description of the topics that will covered in this blog.
+Seminars and journal clubs that organized by group members.
 
 
