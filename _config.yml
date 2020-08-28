@@ -24,15 +24,18 @@ author:
   name             : "Jiang-Hao Yu"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "Associate Professor at ITP-CAS"
-  location: "Somewhere"
+  location: "Beijing, China"
   #links that appear in the authors navigation sidebar
   links:
     - label: "Email: jhyu@itp.ac.cn"
       icon: "fas fa-fw fa-envelope-square fa-lg"
       url: "mailto:jhyu@itp.ac.cn"
-    - label: "INSPIREHEP Link"
+    - label: "My INSPIREHEP Page"
       icon: "fab fa-inspirehep fa-lg"
       url: "https://inspirehep.net/authors/1066117"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github fa-lg"
+      url: "https://github.com/jhyu-itp/"
     - label: "ORCID"
       icon: "fab fa-orcid fa-lg"
       url: "https://orcid.org/"
@@ -45,9 +48,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square fa-lg"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github fa-lg"
-      url: "https://jhyu-itp.github.com/"
+
 
 # Social Sharing
 ##################################################
