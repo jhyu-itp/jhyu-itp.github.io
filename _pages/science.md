@@ -1,17 +1,28 @@
 ---
-title: "Popular science"
+title: "Postdoc Jobs and Graduate Students"
 excerpt: "List of Popular science"
 permalink: /science/
 layout: science
 ---
 
-科普和公众
+## Postdoc Job Openning
 
+This research group usually has one job opening for postdoctoral associate. Our reseach interests include Higgs boson physics, effective field theory, baryogenesis, dark matter, neutrino physics, and physics beyond the standard model. The position is intended for two years and may be renewable for a third year subject to mutual satisfaction and funding avalibility. Interested applicants should send their CV and arrange at least two reference letters to: jhyu@itp.ac.cn.
+
+
+## Perspective Graduate Students
+
+我的研究方向见Research page，如果你对我的研究方向有兴趣，或者想要做毕业论文，欢迎联系我。
+
+
+## 研究生学习的3P原则：
+
+Passion: 对科研有热情：研究生学习，兴趣是第一位的，选择自己感兴趣的研究方向，能够对课题有热情，这意味着对课题可以主动学习、不用催进展
+Persistence: 对研究的课题能坚持下来：课题没有大小之分，只是有没有价值的区别，一旦选择一个有兴趣的课题，要能坚持下来，且持续渐进有条理
+Perception：对研究领域内的问题有眼光：专注课题的同时，能够逐渐扩展自己对领域内问题的理解，逐渐对更多的问题感兴趣，有一定的向外的触角
 
 
 ## 温伯格的四个忠告
-
-
 
 当我得到大学学位的时候，那是五六十年前的事了。物理文献在我眼里就象一个未经
 探索的汪洋大海，我必须在勘测了它的每一个部分之后才能开始自己的研究。做任何事情之前
@@ -62,7 +73,7 @@ Soddy 在McGill 大学揭示了放射性的本质。这一工作（当然！）�
 。但是，这是一个文明化的工作，对这一工作科学家是可以感到骄傲的。
 
 
-Scientist: Four golden lessons 
+## Scientist: Four golden lessons 
 
 STEVEN WEINBERG 
 
