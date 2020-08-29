@@ -1,8 +1,8 @@
 ---
-title: "Science"
+title: "Popular science"
 excerpt: List of Popular science"
-permalink: /software/
-layout: software
+permalink: /science/
+layout: science
 ---
 
 科普和公众
