@@ -1,19 +1,23 @@
 ---
-title: "CV and Publications"
+title: "CV and Publication"
 excerpt: List of my publications"
 permalink: /publications/
 layout: publications
 ---
 
-My working experiences and education:
+### My working experiences：
 
 * 2017.12 - now, Institute of Theoretical Physics, Chinese Academy of Science, Assoicate Professor
 * 2015.9 - 2017.11, University of Massachusetts at Amherst, ACFI, Postdoc research associate
 * 2012.9 - 2015.8, University of Texas at Austin, Weinberg Theory group, Postdoc fellow
 
+### My educations:
+
 * 2007.9 - 2012.8, Michigan State University, Dept. of Physics and Astronomy, Ph.D.
 * 2004.9 - 2007.8，Peking University, College of Physics, Theoretical Physics, M.Sc.
 * 2000.9 - 2004.7，Northeast Normal University, Dept. of Physics, B.Sc.
+
+### My publication list: 
 
 You can always find my updated publications through [INSPIRE-HEP](https://inspirehep.net/authors/1066117) page. 
 
