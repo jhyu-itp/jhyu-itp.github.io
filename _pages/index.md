@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 permalink: /
-title: Welcome to Jiang-Hao Yu's website!
+title: Welcome to this homepage!
 
 # Delete next lines if you prefer not to have a feature row
 feature_row_title: PI 简介
@@ -17,19 +17,20 @@ feature_row:
 
 
 
-The following is a brief introduction for Jiang-Hao Yu's research group.  
+Introduction for Jiang-Hao Yu's research group.  
 
 
 -----------------
+<br />
 
 This is Jiang-Hao Yu, an associate professor at Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
 
 My research area is theoretical particle physics and particle cosmology, focusing on origin of the Higgs mass and neutrino masses, origin of matter and dark matter, and effective field theories. Recently I am working on naturalness and shape of Higgs potential, standard model and chiral effective field theory, electroweak phase transition and baryogenesis, dark matter and cosmological signatures.  
 
-If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. If you would like to apply for postdoc/Ph.D., or visit ITP-CAS, feel free to contact me via [email](jhyu@itp.ac.cn). 
+If you are interested in my research, please check out my publications at [INSPIRE-HEP](https://inspirehep.net/authors/1066117) webpage. If you would like to apply for postdoc/Ph.D., or visit ITP-CAS, feel free to contact me via [email](mailto:jhyu@itp.ac.cn). 
 
 
-<br />
+
 
 <p align="center">
 <img src="/assets/images/bio-photo.png" alt="于江浩" title="Jiang-Hao Yu" width="150"/>
@@ -46,10 +47,10 @@ If you are interested in my research, please check out my publications at [INSPI
 3. 场论理论：有效场论理论框架和非平衡态场论
 
 目前主要集中在希格斯理论疑难、有效场论、电弱相变和重子生成、暗物质探测等方面，主持国家自然科学基金委面上项目一项，在国际学术期刊发表论文36篇，含独立作者文章6篇，PRL三篇，高能物理INSPIRE数据库统计文章总引用1000次以上，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。
-<br />
+
 
 <!-- Delete next line if you prefer not to have a feature row. -->
-<br />
+
 
 <!-- {% if page.feature_row1 %} 
   {% include feature_row1 %}
@@ -59,9 +60,6 @@ If you are interested in my research, please check out my publications at [INSPI
 -----------------
 
 In this research group, currently we have two postdocs:
-
-<br />
-<br />
 
 
 <table>
@@ -80,11 +78,11 @@ In this research group, currently we have two postdocs:
   <img src="/images/p1.jpg" width="30%" /> 
   <img src="/images/p1.jpg" width="30%" height=480/>
 </p> -->
-<br />
+
 
 and four graduate students:
 
-<br />
+
 <p align="center">
 <table>
   <tr>
@@ -109,11 +107,10 @@ Hao Sun (孙浩)
 Hao-Lin Li (李浩林)
 Yong Du (杜勇)  style="margin-left:auto;margin-right:auto;" -->
 
-<br />
+
 
 -----------------
 
-<br />
 
 We also provide research opportunities for undergraduate students, currently two undergraduate students are working with me:
 
