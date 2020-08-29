@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 permalink: /
-title: Welcome your visit!
+title: Welcome to this site!
 
 # Delete next lines if you prefer not to have a feature row
 feature_row_title: PI 简介
@@ -37,7 +37,7 @@ If you are interested in my research, please check out my publications at [INSPI
     <em>Jiang-Hao Yu 于江浩 </em>
 </p>
 <br />
-中国科学院理论物理研究所副研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底回理论所任副研究员。研究领域为粒子物理理论和粒子宇宙学，研究方向为（详细请见Research page）
+于江浩，中国科学院理论物理研究所副研究员，博士毕业于美国密歇根州立大学，先后在德克萨斯大学奥斯汀分校和麻省大学阿姆斯特分校做博士后，2017年底回理论所任副研究员。研究领域为粒子物理理论和粒子宇宙学，研究方向为（详细请见Research page）
 
 1. 质量起源：希格斯粒子和中微子的质量起源
 
