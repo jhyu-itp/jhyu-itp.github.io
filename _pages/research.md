@@ -25,6 +25,43 @@ feature_row:
 # Delete the previous lines if you prefer not to have a feature row
 ---
 
+
+My research interests are
+
+1. Origin of Higgs Boson mass and electroweak phase transition:
+
+* Naturalness model building: neutral naturalness, composite Higgs, supersymmetry, extra dimension
+* Nature of Higgs boson: fundamental, composite, Goldstone, dilaton, condensate
+* Shape of Higgs potential: radiative symmetry breaking, induced symmetry breaking
+* Pattern of electroweak phase transition: multistep, supercooling, tunnelling, non-restoration
+
+2. Effective field theory framework:
+
+* standard model effective field theory based on Lorentz and gauge symmetry, CPT, and B, L symmetry
+* chiral effective field theories for composite Higgs, electroweak and QCD chiral Lagrangian
+
+3. Nature of dark matter and cosmological signature:
+
+* Thermal and non-thermal dark matter: WIMP, sterile neutrino, axion, and superlight scalar field
+* cosmological implications on cosmological perturbation, CMB, large scale structure and halo
+* dark matter direct detection: effective field theory and nuclear/atomic response function
+
+4. Origin of neutrino masses and experimental probe: 
+
+* neutrino masses, CP violation and lepton number violation, neutrino non-standard interactions 
+* neutrinoless double bete decay and neutrino coherent scattering
+
+5. Origin of matter anti matter asymmetry:
+
+* electroweak baryogenesis: first order phase transition, CP asymmetry and electric dipole moment
+* leptogenesis: CP asymmetry, lepton number violation, and non-equilibrium field theory 
+
+
+
+
+
+-----------------
+
 目前已知的物质世界的基础是粒子物理的“标准模型”，包括17种基本粒子，描述自然界中存在的强、弱和电磁相互作用。尽管粒子物理标准模型已经取得了辉煌成功，标准模型仍然存在理论和实验观测上的挑战:
 
 1. 质量起源问题：标准模型还存在最后一个未测量的参数，就是希格斯自相互作用；希格斯粒子和中微子的质量起源仍然存在疑难；
