@@ -5,10 +5,12 @@ permalink: /blog/
 layout: recent-posts
 ---
 
-## This page includes seminars, journal clubs, news in the group.
+This page is intended for noticing seminars, journal clubs, news in the group.
 
-每周一上午有组会，在南楼，或者在网上
+--------------------
 
-周二或周四下午可能安排seminar
+There is a weekly group meeting informed via Wechat.
 
+The updated list of the seminar is [here](http://www.itp.cas.cn/xshd/ztxxbg/)
 
+If you would like to give seminar at ITP-CAS, please contact me.
