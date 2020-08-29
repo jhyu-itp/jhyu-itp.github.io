@@ -5,15 +5,15 @@ permalink: /software/
 layout: software
 ---
 
-This page is intended for my teaching courses, and training school materials.
+This page is intended for outline and materials in my teaching courses, and in training school.
 
-## 2020 Fall, UCAS course: Frontier Physics
+## 2020 Fall, UCAS course: Frontier of Physics
 
-1. Matter antimatter asymmetry
+1. Origin of matter antimatter asymmetry
 
-## 2020 Fall, Training courses
+## 2020 Fall, Training course
 
-1. Effective Field Theory
+1. Introduction to Effective Field Theory
 
 
 
