@@ -36,18 +36,15 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
       url: "https://github.com/jhyu-itp/"
-    - label: "ORCID"
+    - label: "arXiv"
       icon: "fab fa-orcid fa-lg"
-      url: "https://orcid.org/"
+      url: "https://arxiv.org/list/hep-ph/new"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin fa-lg"
       url: "https://LinkedIn.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square fa-lg"
-      url: "https://twitter.com/"
 
 
 # Social Sharing
