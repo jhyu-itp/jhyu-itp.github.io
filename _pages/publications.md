@@ -5,10 +5,23 @@ permalink: /publications/
 layout: publications
 ---
 
+My working experiences and education:
+
+* 2017.12 - now, Institute of Theoretical Physics, Chinese Academy of Science, Assoicate Professor
+* 2015.9 - 2017.11, University of Massachusetts at Amherst, ACFI, Postdoc research associate
+* 2012.9 - 2015.8, University of Texas at Austin, Weinberg Theory group, Postdoc fellow
+
+* 2007.9 - 2012.8, Michigan State University, Dept. of Physics and Astronomy, Ph.D.
+* 2004.9 - 2007.8，Peking University, College of Physics, Theoretical Physics, M.Sc.
+* 2000.9 - 2004.7，Northeast Normal University, Dept. of Physics, B.Sc.
+
+You can always find my updated publications through [INSPIRE-HEP](https://inspirehep.net/authors/1066117) page. 
+
+------------------------
 
 
 ## 工作经历
-------------------------
+
 
 2017.12 - 至今，  中国科学院理论物理研究所，第一研究室，副研究员
 
@@ -17,7 +30,7 @@ layout: publications
 2012.9 - 2015.8， 得克萨斯大学奥斯汀分校，Weinberg理论组，博士后
 
 ## 学习经历
-------------------------
+
 
 2007.9 - 2012.8，密歇根州立大学，物理天文系，博士
 
@@ -27,9 +40,7 @@ layout: publications
 
 
 ## 发表文章
-------------------------
 
-You can always find my updated publications through the following link: 
 
-https://inspirehep.net/authors/1066117
+高能物理INSPIRE有我的文章的最新列表：[INSPIRE-HEP](https://inspirehep.net/authors/1066117)
 
