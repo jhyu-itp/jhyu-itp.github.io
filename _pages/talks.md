@@ -8,7 +8,7 @@ layout: talks
 This page lists seminars and talks that I give, and the conferences I organize. 
 
 
-## 2020年报告
+## Seminar and Talks in 2020年报告
 
 1. 2020.5.29，**Nature of Higgs Boson: SMEFT, HEFT, or more?**, 24th Mini-workshop on the frontier of LHC, Center for High Energy Physics, 北京大学
 
@@ -25,7 +25,7 @@ This page lists seminars and talks that I give, and the conferences I organize.
 
 
 
-## 会议组织
+## Organized Conferences会议组织
 
 1. 2020.8.2 - 2020.8.8， 第十一届威海新物理研讨会，山东威海 （postpone to 2021.8）
 
