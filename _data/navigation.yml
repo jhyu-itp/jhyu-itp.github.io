@@ -8,10 +8,10 @@ main:
   - title: "Talks"
     url: /talks/
   - title: "Teaching"
-    url: /software/
-#  - title: "Teaching"
-#    url: /downloads/cv.pdf
+    url: /teaching/
+  - title: "Science"
+    url: /Science/
   - title: "Activities"
-    url: /blog/
+    url: /activity/
 
 
