@@ -43,7 +43,7 @@ author:
       icon: "fab fa-fw fa-github fa-lg"
       url: "https://github.com/jhyu-itp/"
     - label: "CAS mail"
-      icon: "fab fa-fw fa-envelop fa-lg"
+      icon: "fab fa-fw fa-id-card fa-lg"
       url: "https://mail.cstnet.cn"
 
    
