@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 permalink: /
-title: Welcome to this homepage!
+title: Welcome your visit!
 
 # Delete next lines if you prefer not to have a feature row
 feature_row_title: PI 简介
@@ -17,11 +17,10 @@ feature_row:
 
 
 
-Introduction for Jiang-Hao Yu's research group.  
-
+This is homepage for Jiang-Hao Yu's research group.  
 
 -----------------
-<br />
+
 
 This is Jiang-Hao Yu, an associate professor at Institute of Theoretical Physics, Chinese Academy of Science (ITP-CAS). I obtained my Ph.D. at Michigan State University on 2012, and then worked as postdoc researcher at University of Texas at Austin and University of Massachusetts at Amherst before I held a position at ITP-CAS at 2017. 
 
