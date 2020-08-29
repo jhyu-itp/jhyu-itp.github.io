@@ -32,8 +32,8 @@ My research interests are (中文版本在后面)
 
 * Naturalness model building: neutral naturalness, composite Higgs, supersymmetry, extra dimension
 * Nature of Higgs boson: fundamental, composite, Goldstone, dilaton, condensate
-* Shape of Higgs potential: radiative symmetry breaking, induced symmetry breaking
-* Pattern of electroweak phase transition: multistep, supercooling, tunnelling, non-restoration
+* Shape of Higgs potential: radiative and induced electroweak symmetry breakings
+* Pattern of electroweak phase transition and tunnelling, gravitational wave signatures
 
 (2) Effective field theory framework:
 
@@ -49,7 +49,7 @@ My research interests are (中文版本在后面)
 (4) Origin of neutrino masses and experimental probe: 
 
 * neutrino masses, CP violation and lepton number violation, neutrino non-standard interactions 
-* neutrinoless double bete decay and neutrino coherent scattering
+* neutrinoless double bete decay and coherent neutrino elastic scattering
 
 (5) Origin of matter anti matter asymmetry:
 
@@ -94,7 +94,7 @@ My research interests are (中文版本在后面)
 
 3. 希格斯势能形状的起源：纯量子辐射修正、诱导对称破缺
 
-4. 电弱相变的可能模式：单步或多步跃迁、过冷或非恢复相变
+4. 电弱相变的可能模式：单步或多步跃迁、对撞机引力波信号
 
 ## 2. 有效场论的理论框架：
 
