@@ -34,20 +34,17 @@ author:
       icon: "fas fa-fw fa-university fa-lg"
       url: "https://www.itp.ac.cn/"
     - label: "My INSPIREHEP Page"
-      icon: "fab fa-inspirehep fa-lg"
+      icon: "fab fa-book fa-lg"
       url: "https://inspirehep.net/authors/1066117"
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
       url: "https://github.com/jhyu-itp/"
     - label: "arXiv hep-ph"
-      icon: "fab fa-orcid fa-lg"
+      icon: "fab fa-archive fa-lg"
       url: "https://arxiv.org/list/hep-ph/new"
     - label: "LinkedIn"
       icon: "fab fa-linkedin fa-lg"
       url: "https://LinkedIn.com/"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.com/"
 
 
 # Social Sharing
