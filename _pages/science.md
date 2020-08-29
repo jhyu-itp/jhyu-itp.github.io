@@ -1,6 +1,6 @@
 ---
 title: "Popular science"
-excerpt: List of Popular science"
+excerpt: "List of Popular science"
 permalink: /science/
 layout: science
 ---
