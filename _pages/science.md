@@ -12,7 +12,7 @@ This research group usually has one job opening for postdoctoral associate. Rese
 
 ## Prospective Graduate Students
 
-You can find my research interests in research page. If you are interested in my research, or if you would like to do your undergraduation/Ph.D. thesis with me, please contact me via email.
+You can find my research interests in research page. If you are interested in my research, or if you would like to do your B.Sc/Ph.D. thesis with me, please contact me via email.
 
 我的研究方向见Research page，如果你对我的研究方向有兴趣，或者想要做毕业论文，欢迎联系我。
 
