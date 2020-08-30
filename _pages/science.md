@@ -1,5 +1,5 @@
 ---
-title: "Postdoc Jobs and Graduate Students"
+title: "Postdoc Jobs and Prospective Students"
 excerpt: "List of Popular science"
 permalink: /science/
 layout: science
@@ -10,16 +10,20 @@ layout: science
 This research group usually has one job opening for postdoctoral associate. Our reseach interests include Higgs boson physics, effective field theory, baryogenesis, dark matter, neutrino physics, and physics beyond the standard model. The position is intended for two years and may be renewable for a third year subject to mutual satisfaction and funding avalibility. Interested applicants should send their CV and arrange at least two reference letters to: jhyu@itp.ac.cn.
 
 
-## Perspective Graduate Students
+## Prospective Graduate Students
+
+You can find my research interests in research page. If you are interested in my research, or if you would like to do your undergraduation/Ph.D. thesis with me, please contact me via email.
 
 我的研究方向见Research page，如果你对我的研究方向有兴趣，或者想要做毕业论文，欢迎联系我。
 
 
+----------------------------
+
 ## 研究生学习的3P原则：
 
-* Passion: 对科研有热情：研究生学习，兴趣是第一位的，选择自己感兴趣的研究方向，能够对课题有热情，这意味着对课题可以主动学习、不用催进展
-* Persistence: 对研究的课题能坚持下来：课题没有大小之分，只是有没有价值的区别，一旦选择一个有兴趣的课题，要能坚持下来，且持续渐进有条理
-* Perception：对研究领域内的问题有眼光：专注课题的同时，能够逐渐扩展自己对领域内问题的理解，逐渐对更多的问题感兴趣，有一定的向外的触角
+* Passion 对科研有热情：研究生学习，兴趣是第一位的，选择自己感兴趣的研究方向，能够对课题有热情，这意味着对课题可以主动学习、不用催进展
+* Persistence 对研究的课题能坚持下来：课题没有大小之分，只是有没有价值的区别，一旦选择一个有兴趣的课题，要能坚持下来，且持续渐进有条理
+* Perceptio 对研究领域内的问题有眼光：专注课题的同时，能够逐渐扩展自己对领域内问题的理解，逐渐对更多的问题感兴趣，有一定的向外的触角
 
 
 ## 温伯格的四个忠告
