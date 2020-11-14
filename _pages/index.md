@@ -17,7 +17,7 @@ feature_row:
 
 
 
-This is the homepage for Jiang-Hao Yu's research group.  
+This is the homepage for Jiang-Hao Yu's research group.  This website is no longer updated. Please go to yu-jianghao.gitee.io or yu-jianghao.github.io
 
 -----------------
 
@@ -45,7 +45,7 @@ If you are interested in my research, please check out my publications at [INSPI
 
 3. 场论理论：有效场论框架和非平衡态场论
 
-目前主要集中在希格斯理论疑难、有效场论、电弱相变和重子生成、暗物质探测等方面，主持国家自然科学基金委面上项目一项，在国际学术期刊发表论文36篇，含独立作者文章6篇，PRL三篇，高能物理INSPIRE数据库统计文章总引用1000次以上，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告。
+目前主要集中在希格斯理论疑难、有效场论、电弱相变和重子生成、暗物质探测等方面，在国际学术期刊发表论文三四十篇，其中物理评论快报（PRL）三篇以及独立作者文章多篇，被PRL等国际学术期刊邀请为审稿人，多次受邀在国际会议和国际知名大学做邀请报告和大会报告
 
 
 <!-- Delete next line if you prefer not to have a feature row.  博士生导师-->
